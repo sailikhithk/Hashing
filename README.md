@@ -17,5 +17,7 @@ Our duty is to use the wordlist to hash and to compare with the wordlist having 
 References:
 
 https://blog.jscrambler.com/hashing-algorithms/
+
+
 https://www.programiz.com/python-programming/methods/built-in/hash
 
